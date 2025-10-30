@@ -1,12 +1,12 @@
 # C83Compiler
 
+## Compiler identification macros
+
 3rd edition of the library
 
 part of the C83Project<br>
 support for 8.3 file naming conventions with the exception of the main include and code files<br>
 support C89 and higher editions<br>
-
-compiler identification macros
 
 <br>
 
@@ -59,4 +59,5 @@ please feel free to contact me.
 
 
 # Updates
+2025 10 30 Compiler.h renamed to PCmplr.h<br>
 <br>
