@@ -1,6 +1,6 @@
 # C83Compiler
 
-## Compiler identification macros
+## Compiler identification macros for C and C++
 
 3rd edition of the library
 
