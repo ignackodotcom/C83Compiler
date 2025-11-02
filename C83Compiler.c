@@ -6,7 +6,7 @@
 *            https://github.com/ignackodotcom
 * \copyright Copyright (c) 1994 - 2026
 *            MIT License (see License.txt file)
-* \brief     Compiler constant definitions library
+* \brief     Compiler identification macros for C and C++ library
 * \details
 *
 * \see       https://github.com/ignackodotcom
